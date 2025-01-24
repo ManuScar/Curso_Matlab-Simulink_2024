@@ -41,3 +41,8 @@ El sistema fue ejecutado durante **20 segundos**, según lo especificado en la c
 Al analizar los resultados mediante la herramienta *Cursor Measurements* del *Scope*, se pueden identificar los valores clave de interés en la respuesta del sistema. Esto permite observar el comportamiento del sistema dinámico y validar su configuración.
 
 ---
+
+## Consigna 2
+
+![image](https://github.com/user-attachments/assets/f6a6d6f9-829f-4f39-8793-20c755044d77)
+
