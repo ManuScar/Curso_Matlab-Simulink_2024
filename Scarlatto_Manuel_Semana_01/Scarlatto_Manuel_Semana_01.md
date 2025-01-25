@@ -46,3 +46,39 @@ Al analizar los resultados mediante la herramienta *Cursor Measurements* del *Sc
 
 ![image](https://github.com/user-attachments/assets/f6a6d6f9-829f-4f39-8793-20c755044d77)
 
+### Diagrama del modelo de bloques 
+
+![image](https://github.com/user-attachments/assets/e5f856d8-68c5-4ed3-9a9a-e7b48720604d)
+
+### Respuesta del Sistema
+
+![image](https://github.com/user-attachments/assets/e72175b2-a139-46f2-87ba-d7d5b2ff24ea)
+
+---
+
+## Consigna 3
+
+![image](https://github.com/user-attachments/assets/657fc244-67b8-4d9a-ba02-d59bff6f66ee)
+
+### Diagrama del modelo de bloques
+
+![image](https://github.com/user-attachments/assets/fa56c93a-05d1-448d-b3db-b044d6d6d38c)
+
+### Respuesta del Sistema
+
+![image](https://github.com/user-attachments/assets/5e8b2af5-3cce-4fb3-a224-b38bd3649512)
+
+---
+
+## Consigna 4 
+
+![image](https://github.com/user-attachments/assets/d55f406e-2762-4f22-98eb-df9c864a1653)
+
+### Diagrama del modelo de bloques
+
+![image](https://github.com/user-attachments/assets/ae77b361-6dcc-433e-822e-ac46fb580b50)
+
+
+
+
+
