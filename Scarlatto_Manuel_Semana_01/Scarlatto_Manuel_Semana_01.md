@@ -78,6 +78,38 @@ Al analizar los resultados mediante la herramienta *Cursor Measurements* del *Sc
 
 ![image](https://github.com/user-attachments/assets/ae77b361-6dcc-433e-822e-ac46fb580b50)
 
+### Función de transferencia
+
+Agergamos la función de transferencia en el bloque 'Transfer Fcn' de la siguiente manera:
+
+![image](https://github.com/user-attachments/assets/43bdfc77-4bbc-47da-8b46-c7b243e67cb8)
+
+### Respuesta del Sistema
+
+![image](https://github.com/user-attachments/assets/805d6223-cc99-4e11-a340-2b164c51198b)
+
+![image](https://github.com/user-attachments/assets/6c1f6b0d-4b59-4d16-a7ea-d3ec8529dc4d)
+
+Podemos observar que el sistema es estable dado que cumple con el criterio de estabilidad de Routh.
+
+---
+
+## Consigna 5
+
+![image](https://github.com/user-attachments/assets/44abc0a8-76b7-44ff-8e61-7d5e83cf0067)
+
+### Diagrama del modelo de bloques
+
+![image](https://github.com/user-attachments/assets/81cd4326-f15e-4a0b-85a4-1c9af529dd57)
+
+### Respuesta del Sistema
+
+![image](https://github.com/user-attachments/assets/330cf51c-1263-4971-9fa2-398ba23b05bd)
+
+
+
+
+
 
 
 
