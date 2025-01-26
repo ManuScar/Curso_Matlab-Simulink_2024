@@ -16,6 +16,7 @@
 3. [Consigna 3](#guia-02-consigna-3)
 4. [Consigna 4](#guia-02-consigna-4)
 5. [Consigna 5](#guia-02-consigna-5)
+6. [Consigna 6](#guia-02-consigna-6)
 
 ---
 
@@ -188,5 +189,228 @@ Podemos observar en el gráfico siguiente las 2 salidas,
 ---
 ## Guia 02: Consigna 3
 
----
+![image](https://github.com/user-attachments/assets/b02c8681-e518-447f-80ed-bb62c744d3c3)
 
+### Desarrollo
+
+Escribimos en comando 'clear all',
+
+![image](https://github.com/user-attachments/assets/ba607ff4-af0a-40f9-88e9-4d544faa7dbc)
+
+Podemos observar que al ejecutar el comando, se eliminaron las variables del Workspace.
+
+---
+## Guia 02: Consigna 4
+
+![image](https://github.com/user-attachments/assets/d6f26b4b-feac-487c-9499-1c5abac3ebec)
+
+### Desarrollo
+
+Ejecutamos el comando sim('mod_02'), y podemos observar que aparece nuevamente en el Workspace el yout. 
+![image](https://github.com/user-attachments/assets/dceaea6b-0e8b-4470-83be-047e7d5c0d6c)
+
+Ahora vamos a ejecutar el comando [t, x, y] = sim('mod_02');
+
+![image](https://github.com/user-attachments/assets/b366d9cb-a9f6-46ec-b9ef-994792d92788)
+
+Obteniendo los siguientes resultados:
+
+```
+t =
+
+         0
+    0.4000
+    0.8000
+    1.0000
+    1.0000
+    1.0000
+    1.4000
+    1.7340
+    2.1340
+    2.5340
+    2.9340
+    3.3340
+    3.7340
+    4.1340
+    4.5340
+    4.9340
+    5.3340
+    5.7340
+    6.1340
+    6.5340
+    6.9340
+    7.3340
+    7.7340
+    8.1340
+    8.5340
+    8.9340
+    9.3340
+    9.7340
+   10.1340
+   10.5340
+   10.9340
+   11.3340
+   11.7340
+   12.1340
+   12.5340
+   12.9340
+   13.3340
+   13.7340
+   14.1340
+   14.5340
+   14.9340
+   15.3340
+   15.7340
+   16.1340
+   16.5340
+   16.9340
+   17.3340
+   17.7340
+   18.1340
+   18.5340
+   18.9340
+   19.3340
+   19.7340
+   20.0000
+```
+```
+x =
+
+         0         0
+         0         0
+         0         0
+         0         0
+         0         0
+    0.0000    0.0000
+    0.2541    0.0600
+    0.2924    0.1546
+    0.2274    0.2611
+    0.1260    0.3318
+    0.0404    0.3641
+   -0.0109    0.3689
+   -0.0305    0.3597
+   -0.0296    0.3472
+   -0.0198    0.3372
+   -0.0091    0.3315
+   -0.0014    0.3295
+    0.0025    0.3298
+    0.0035    0.3311
+    0.0028    0.3324
+    0.0016    0.3332
+    0.0006    0.3337
+   -0.0001    0.3338
+   -0.0003    0.3337
+   -0.0004    0.3335
+   -0.0002    0.3334
+   -0.0001    0.3333
+   -0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+   -0.0000    0.3333
+   -0.0000    0.3333
+   -0.0000    0.3333
+   -0.0000    0.3333
+   -0.0000    0.3333
+   -0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+   -0.0000    0.3333
+   -0.0000    0.3333
+   -0.0000    0.3333
+   -0.0000    0.3333
+   -0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+    0.0000    0.3333
+```
+```
+y =
+
+         0         0
+         0         0
+         0         0
+         0         0
+         0    1.0000
+    0.0000    1.0000
+    0.1800    1.0000
+    0.4638    1.0000
+    0.7832    1.0000
+    0.9955    1.0000
+    1.0924    1.0000
+    1.1066    1.0000
+    1.0791    1.0000
+    1.0417    1.0000
+    1.0116    1.0000
+    0.9944    1.0000
+    0.9885    1.0000
+    0.9894    1.0000
+    0.9932    1.0000
+    0.9971    1.0000
+    0.9997    1.0000
+    1.0010    1.0000
+    1.0013    1.0000
+    1.0010    1.0000
+    1.0005    1.0000
+    1.0002    1.0000
+    0.9999    1.0000
+    0.9999    1.0000
+    0.9999    1.0000
+    0.9999    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+    1.0000    1.0000
+```
+---
+## Guia 02: Consigna 5
+
+![image](https://github.com/user-attachments/assets/1d1aeabd-6101-4b51-86b7-dc4cdff4b5d0)
+
+Ejecutando el comando 'plot(yout)' obtenemos las siguientes graficas:
+
+![image](https://github.com/user-attachments/assets/46ad5f22-1c64-463f-97a2-bd3d16483dac)
+
+---
+## Guia 02: Consigna 6
+
+![image](https://github.com/user-attachments/assets/0d400f56-92ef-4eb8-82b3-cb17fb5c02e0)
+
+### Diagrama del modelo de bloques
+
+![image](https://github.com/user-attachments/assets/e601fb2e-ed65-4df1-ab82-9d3f395406d6)
+
+### Respuesta del sistema
+
+![image](https://github.com/user-attachments/assets/989d03d3-936a-4f1f-abce-c0a3c82bdb3a)
+
+Podemos concluir que ver las gráficas en el bloque Scope es más agil y rapido, pero a través de los comandos podemos diferenciarlas y combinarlas, haciendo más sencillo el estudio y la comparación de las mismas, que podemos hacerlos con los bloques pero se tornaria más engorrozo tener varios bloques Scope. 
+
+---
