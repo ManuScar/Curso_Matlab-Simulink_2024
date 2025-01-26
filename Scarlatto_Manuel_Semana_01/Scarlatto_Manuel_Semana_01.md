@@ -2,12 +2,12 @@
 
 ## Tabla de contenidos
 ### Guía 01
-1. [Consigna 1](#consigna-1)
-2. [Consigna 2](#consigna-2)
-3. [Consigna 3](#consigna-3)
-4. [Consigna 4](#consigna-4)
-5. [Consigna 5](#consigna-5)
-6. [Consigna 6](#consigna-6)
+1. [Consigna 1](#guia-01-consigna-1)
+2. [Consigna 2](#guia-01-consigna-2)
+3. [Consigna 3](#guia-01-consigna-3)
+4. [Consigna 4](#guia-01-consigna-4)
+5. [Consigna 5](#guia-01-consigna-5)
+6. [Consigna 6](#guia-01-consigna-6)
 
 ### Guía 02
 
@@ -19,7 +19,7 @@
 
 ---
 
-## Consigna 1
+## Guia 01: Consigna 1
 
 ![Consigna_1](https://github.com/user-attachments/assets/245e86c7-5ef7-44af-8ca2-3741f53f62a2)
 
@@ -51,7 +51,7 @@ Al analizar los resultados mediante la herramienta *Cursor Measurements* del *Sc
 
 ---
 
-## Consigna 2
+## Guia 01: Consigna 2
 
 ![image](https://github.com/user-attachments/assets/f6a6d6f9-829f-4f39-8793-20c755044d77)
 
@@ -65,7 +65,7 @@ Al analizar los resultados mediante la herramienta *Cursor Measurements* del *Sc
 
 ---
 
-## Consigna 3
+## Guia 01: Consigna 3
 
 ![image](https://github.com/user-attachments/assets/657fc244-67b8-4d9a-ba02-d59bff6f66ee)
 
@@ -79,7 +79,7 @@ Al analizar los resultados mediante la herramienta *Cursor Measurements* del *Sc
 
 ---
 
-## Consigna 4 
+## Guia 01: Consigna 4 
 
 ![image](https://github.com/user-attachments/assets/d55f406e-2762-4f22-98eb-df9c864a1653)
 
@@ -103,7 +103,7 @@ Podemos observar que el sistema es estable dado que cumple con el criterio de es
 
 ---
 
-## Consigna 5
+## Guia 01: Consigna 5
 
 ![image](https://github.com/user-attachments/assets/44abc0a8-76b7-44ff-8e61-7d5e83cf0067)
 
@@ -119,7 +119,7 @@ Podemos observar que el sistema no es inestable dado que es una función senoida
 
 ---
 
-## Consigna 6
+## Guia 01: Consigna 6
 
 ![image](https://github.com/user-attachments/assets/b8c288cc-f264-431a-a3cc-a9f8f9bbaea9)
 
@@ -134,3 +134,7 @@ Podemos observar que el sistema no es inestable dado que es una función senoida
 Podemos observar que el sistema 1 (amarillo) tiene alcanza el regimen un poco antes que el 2 (azul), es decir que el sistema 1 presenta un amortiguamiento critico, mientas que el 2 un sub-amortiguamiento. 
 
 ---
+
+## Guia 02: Consigna 1
+
+![image](https://github.com/user-attachments/assets/19d29b89-eeb1-470e-8f3f-951028c327d6)
