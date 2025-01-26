@@ -96,4 +96,6 @@ Al aumentar la frecuencia del sistema, podemos observar que la amplitud de la ma
 
 ![image](https://github.com/user-attachments/assets/b818b103-29aa-4b0c-b9bc-3d16201e2437)
 
+![image](https://github.com/user-attachments/assets/b89f4df8-2f85-4edb-86f2-3f21aefcf7f6)
+
 ---
