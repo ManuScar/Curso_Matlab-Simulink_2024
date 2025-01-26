@@ -138,3 +138,37 @@ Podemos observar que el sistema 1 (amarillo) tiene alcanza el regimen un poco an
 ## Guia 02: Consigna 1
 
 ![image](https://github.com/user-attachments/assets/19d29b89-eeb1-470e-8f3f-951028c327d6)
+
+### Diagrama del modelo de bloques
+
+![image](https://github.com/user-attachments/assets/7c088e62-f139-4172-8438-3ff960bbd2c2)
+
+### Respuesta del Sistema
+
+![image](https://github.com/user-attachments/assets/f2ef6d57-0b70-4090-a81b-dc9b64bedfa1)
+
+En el workspace de Matlab aparece la variable 'tout',
+
+![image](https://github.com/user-attachments/assets/e57a7ecb-ebb6-4306-8111-3112ea3325c4)
+
+---
+
+## Guia 02: Consigna 2
+
+![image](https://github.com/user-attachments/assets/a23af4b0-f856-473a-9ab3-e008a75e5329)
+
+### Diagrama del modelo de bloques 
+
+![image](https://github.com/user-attachments/assets/5d4a54b2-1d41-4ba1-a5f8-70599b61bc5a)
+
+Podemos ver que ahora en el Workspace aparece una nueva variable 'yout',
+
+![image](https://github.com/user-attachments/assets/1976fe5c-3dae-4e1c-b6e0-25db82473544)
+
+Agregando un segundo bloque 'out' en la entrada del modelo,
+
+![image](https://github.com/user-attachments/assets/c07ef23b-1b3b-44b2-9f9d-161a76df0240)
+
+Observamos que a este se le asigna automaticamente el número 2, a su vez podemos ver en el Workspace: 
+
+![image](https://github.com/user-attachments/assets/80e5b720-34bd-4d21-b408-05f41bfc9305)
