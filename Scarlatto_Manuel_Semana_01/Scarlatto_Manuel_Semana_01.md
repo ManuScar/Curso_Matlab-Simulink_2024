@@ -172,3 +172,21 @@ Agregando un segundo bloque 'out' en la entrada del modelo,
 Observamos que a este se le asigna automaticamente el número 2, a su vez podemos ver en el Workspace: 
 
 ![image](https://github.com/user-attachments/assets/80e5b720-34bd-4d21-b408-05f41bfc9305)
+
+Vemos los valores de la primera salida de yout, 
+
+![image](https://github.com/user-attachments/assets/ead9b21a-e6b1-451f-8e84-a2b7ceae9f38)
+
+Ahora los de la segunda salida,
+
+![image](https://github.com/user-attachments/assets/08beec9e-2754-420f-85fd-52c2fc711931)
+
+Podemos observar en el gráfico siguiente las 2 salidas, 
+
+![image](https://github.com/user-attachments/assets/d6ff43ec-d0d4-480e-80da-d42c5a690833)
+
+---
+## Guia 02: Consigna 3
+
+---
+
