@@ -106,6 +106,8 @@ Podemos observar que el sistema es estable dado que cumple con el criterio de es
 
 ![image](https://github.com/user-attachments/assets/330cf51c-1263-4971-9fa2-398ba23b05bd)
 
+Podemos observar que el sistema no es inestable dado que es una función senoidal constante que no tiende a infinito ni diverge.
+
 ---
 
 ## Consigna 6
@@ -120,11 +122,6 @@ Podemos observar que el sistema es estable dado que cumple con el criterio de es
 
 ![image](https://github.com/user-attachments/assets/0cfffaa5-83f2-493f-beb1-7af0d74c1902)
 
+Podemos observar que el sistema 1 (amarillo) tiene alcanza el regimen un poco antes que el 2 (azul), es decir que el sistema 1 presenta un amortiguamiento critico, mientas que el 2 un sub-amortiguamiento. 
+
 ---
-
-
-
-
-
-
-
