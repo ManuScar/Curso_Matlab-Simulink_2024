@@ -106,7 +106,21 @@ Podemos observar que el sistema es estable dado que cumple con el criterio de es
 
 ![image](https://github.com/user-attachments/assets/330cf51c-1263-4971-9fa2-398ba23b05bd)
 
+---
 
+## Consigna 6
+
+![image](https://github.com/user-attachments/assets/b8c288cc-f264-431a-a3cc-a9f8f9bbaea9)
+
+### Diagrama del modelo de bloques
+
+![image](https://github.com/user-attachments/assets/728ebcfc-bcbb-4648-93e8-b4f4f9d2a95c)
+
+### Respuesta del Sistema
+
+![image](https://github.com/user-attachments/assets/0cfffaa5-83f2-493f-beb1-7af0d74c1902)
+
+---
 
 
 
