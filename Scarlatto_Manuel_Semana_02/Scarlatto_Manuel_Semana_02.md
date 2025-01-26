@@ -6,8 +6,6 @@
 2. [Consigna 2](#guia-03-consigna-2)
 3. [Consigna 3](#guia-03-consigna-3)
 4. [Consigna 4](#guia-03-consigna-4)
-5. [Consigna 5](#guia-03-consigna-5)
-6. [Consigna 6](#guia-03-consigna-6)
 
 ---
 
@@ -46,5 +44,56 @@ Se agrega al Scope la entrada:
 Obteniendo la siguientes gráficas:
 
 ![image](https://github.com/user-attachments/assets/59e56477-1b4c-4dcd-9b7f-6f82fc7c0357)
+
+Se creo un script con el nombre 'file_03';
+
+![image](https://github.com/user-attachments/assets/b2b90e9f-557e-499e-a154-854ab88d67cf)
+
+---
+
+## Guia 03: Consigna 3
+
+![image](https://github.com/user-attachments/assets/6522bd93-b6a3-4ea2-8e75-545e5b3f4138)
+
+Se observa que esta en automatico y no aparece ninguna alerta,
+
+![image](https://github.com/user-attachments/assets/d5454f47-38da-48c5-b54c-8a077e3d444e)
+
+---
+## Guia 03: Consigna 4
+
+![image](https://github.com/user-attachments/assets/f191c375-037d-445b-96f4-5052645dba44)
+
+Se comienza variando el valor de 'B', 
+
+![image](https://github.com/user-attachments/assets/dc5ee8ff-8af0-4ada-83aa-38618e4a56ed)
+
+Observamos la respuesta del sistema:
+
+![image](https://github.com/user-attachments/assets/b447e203-0a69-4de7-be65-75e0729f4058)
+
+Si ahora variamos 'K', 
+
+![image](https://github.com/user-attachments/assets/11b3bcd8-95e0-4388-b567-ecdf5e00a79c)
+
+Obtenemos la siguiente gráfica:
+
+![image](https://github.com/user-attachments/assets/00d9fae2-78e8-47db-b518-abef635daae3)
+
+Ahora observamos que ocurre si variamos la fuente,
+
+### Diagrama en bloques del sistema
+
+![image](https://github.com/user-attachments/assets/cb85d75a-c197-473a-a63d-ceb5ee5f0dc4)
+
+![image](https://github.com/user-attachments/assets/29fe8495-06cc-42c7-b69f-8e7a0ae42bd7)
+
+Vemos la respues del sistema junto a la señal de entrada del mismo:
+
+![image](https://github.com/user-attachments/assets/47f619ea-ed65-4263-872e-134f5180cb51)
+
+Al aumentar la frecuencia del sistema, podemos observar que la amplitud de la masa es mayo en comparación a la de la trayectoria.
+
+![image](https://github.com/user-attachments/assets/b818b103-29aa-4b0c-b9bc-3d16201e2437)
 
 ---
