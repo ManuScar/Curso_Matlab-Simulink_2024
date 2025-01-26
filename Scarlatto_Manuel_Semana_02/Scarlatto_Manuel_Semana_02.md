@@ -29,6 +29,6 @@ Le dimos los siguientes valores a las variables,
 
 ### Respuesta del sistema
 
-![image](https://github.com/user-attachments/assets/4cdc4ccc-42f5-42e4-a9f8-5c4cb95616d9)
+![image](https://github.com/user-attachments/assets/cd8112f6-86a6-47fb-b89d-76b820cedf23)
 
 ---
