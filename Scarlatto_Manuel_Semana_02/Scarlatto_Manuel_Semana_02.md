@@ -99,3 +99,31 @@ Al aumentar la frecuencia del sistema, podemos observar que la amplitud de la ma
 ![image](https://github.com/user-attachments/assets/b89f4df8-2f85-4edb-86f2-3f21aefcf7f6)
 
 ---
+# Tema: 04. Funciones básicas de control en Matlab
+
+## Tabla de contenidos
+### Guía 04
+1. [Consigna 1](#guia-04-consigna-1)
+2. [Consigna 2](#guia-04-consigna-2)
+3. [Consigna 3](#guia-04-consigna-3)
+
+---
+
+## Guia 04: Consigna 1
+
+![image](https://github.com/user-attachments/assets/d0db580a-9bd7-42d2-8c7f-a88cf44895f6)
+
+### Desarrollo
+
+Definimos las variables para la transformada de Laplace:
+
+![image](https://github.com/user-attachments/assets/ca561591-529c-4154-87b4-b14aa57fe527) ![image](https://github.com/user-attachments/assets/24b73817-18df-4720-ae94-80c73958c41e)
+
+Ahora, calculamos la transformada de Laplace:
+
+![image](https://github.com/user-attachments/assets/8c931463-4d4f-4e92-9216-6e6fdbffa648)
+
+Calculamos las transformadas de Laplace de las 2 funciones (fi y f2):
+
+![image](https://github.com/user-attachments/assets/57e7dde8-00fc-49ee-ba27-403597b001f3) ![image](https://github.com/user-attachments/assets/8c9ed472-7164-4009-b368-6599dd17d6f2)
+
