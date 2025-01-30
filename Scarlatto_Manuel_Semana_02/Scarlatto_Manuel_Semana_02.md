@@ -9,6 +9,16 @@
 
 ---
 
+# Tema: 04. Funciones básicas de control en Matlab
+
+## Tabla de contenidos
+### Guía 04
+1. [Consigna 1](#guia-04-consigna-1)
+2. [Consigna 2](#guia-04-consigna-2)
+3. [Consigna 3](#guia-04-consigna-3)
+
+---
+
 ## Guia 03: Consigna 1
 
 ![image](https://github.com/user-attachments/assets/349f6dbd-19e8-4c0a-9be4-2135458bb7ee)
@@ -97,15 +107,6 @@ Al aumentar la frecuencia del sistema, podemos observar que la amplitud de la ma
 ![image](https://github.com/user-attachments/assets/b818b103-29aa-4b0c-b9bc-3d16201e2437)
 
 ![image](https://github.com/user-attachments/assets/b89f4df8-2f85-4edb-86f2-3f21aefcf7f6)
-
----
-# Tema: 04. Funciones básicas de control en Matlab
-
-## Tabla de contenidos
-### Guía 04
-1. [Consigna 1](#guia-04-consigna-1)
-2. [Consigna 2](#guia-04-consigna-2)
-3. [Consigna 3](#guia-04-consigna-3)
 
 ---
 
