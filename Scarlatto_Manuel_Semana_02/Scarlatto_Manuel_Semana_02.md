@@ -127,3 +127,20 @@ Calculamos las transformadas de Laplace de las 2 funciones (fi y f2):
 
 ![image](https://github.com/user-attachments/assets/57e7dde8-00fc-49ee-ba27-403597b001f3) ![image](https://github.com/user-attachments/assets/8c9ed472-7164-4009-b368-6599dd17d6f2)
 
+La transformada de Laplace de las funciones Delta de Dirac (f3) y la función de Heaviside(f4):
+
+![image](https://github.com/user-attachments/assets/0eb47cc1-94d1-41a6-94a2-c8aec8d828e7)
+
+Calculo la transformada inversa de Laplace de la primera función:
+
+![image](https://github.com/user-attachments/assets/a4244634-3c34-45b2-8ef3-ea2a0375b4a3)
+
+Ahora las de las funciones H1(s), H2(s), H3(s) y H4(s):
+
+![image](https://github.com/user-attachments/assets/af289dc7-e3b8-4fac-bcb6-90390d778e9e)
+
+Ahora para utilizar la función 'simplify' utilizaremos la funcion trigonométrica $$ H5(s) = (sin(s))^2 + (cos(s))^2 $$: 
+
+![image](https://github.com/user-attachments/assets/bd1271f2-1e71-4da8-a746-b7bcc76efabc)
+
+El error que se observa es por querer generar una variable con un caracter que no se permite.
