@@ -297,7 +297,6 @@ Para el caso de H=6, vemos que C no tiene parte real positiva:
 
 ![image](https://github.com/user-attachments/assets/c61c9c51-7d02-4156-ba01-d5f9a3b3878d)
 
---- 
 Ahora calcularemos los polos del sistema $$ F = exp(-s) / ( s^2 + s + sqrt(2) ) $$.
 
 ![image](https://github.com/user-attachments/assets/3cc7b9aa-5b68-494b-8286-6444beee53f8)
@@ -315,7 +314,9 @@ F =
   exp(-1*s) * ---------------
               s^2 + s + 1.414
 ´´´
+
 Calculando los polos del sistema, podemos ver que posee 2 polos reales negativos:
+
 ´´´
 polos_realesF =
 
@@ -324,3 +325,5 @@ polos_realesF =
 ´´´
 
 Al colocar en la ventana de comandos 'close all' observamos que se cierran todas las gráficas. 
+
+---
