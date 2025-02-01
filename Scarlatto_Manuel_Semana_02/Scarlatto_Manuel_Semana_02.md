@@ -148,7 +148,7 @@ El error que se observa es por querer generar una variable con un caracter que n
 
 ### Codigo Matlab
 
-´´´
+```
 
 % Consiga 01 - Tema 04
 syms s; % Variable de Laplace
@@ -185,7 +185,7 @@ h4(t) = ilaplace(H4(s))
 H5(s) = (sin(s))^2 + (cos(s))^2;
 H5s = simplify(H5(s))
 
-´´´
+```
 
 ---
 
@@ -209,7 +209,7 @@ Para verificar si 'G' es inestable, calcularemos sus polos:
 
 ![image](https://github.com/user-attachments/assets/b6d6d4d1-e3c4-4a6e-b282-dad17bb9004f)
 
-´´´
+```
 
 polos =
 
@@ -217,13 +217,13 @@ polos =
    0.0399 + 0.7506i
    0.0399 - 0.7506i
 
-´´´
+```
 
  Podemos observar que tenemos 2 polos con parte real positiva,
 
  ![image](https://github.com/user-attachments/assets/7a89e96f-5cfe-4388-8a93-73a7ab3040f4)
 
-´´´
+```
 
 parte_real =
 
@@ -231,7 +231,7 @@ parte_real =
     0.0399
     0.0399
 
-´´´
+```
 
 Obtenemos el tiempo 't' y la salida 'y', y luego la gráficamos:
 
@@ -248,16 +248,16 @@ Obtenemos el tiempo 't' y la salida 'y', y luego la gráficamos:
 ### Feedback
 
 La función feedback en MATLAB se usa para conectar en retroalimentación dos sistemas de control representados como funciones de transferencia o modelos de espacio de estados. Su sintaxis básica es:
-´´´
+```
 
 C = feedback(G, H)
 
-´´´
+```
 donde 'G' es el sistema en lazo abierto y 'H' la función de transferencia del lazo de realimentación.
 
 ### Definimos la funcion G
 
-´´´
+```
 
 G =
  
@@ -265,12 +265,12 @@ G =
   -----------------
   s^3 + 0.5 s^2 + 3
 
-´´´
+```
 ### Definimos ahora la función C (feedback)
 
 ![image](https://github.com/user-attachments/assets/3bbc99b2-6b80-47ff-a447-834d3676d7f3)
 
-´´´
+```
 
 C =
  
@@ -278,7 +278,7 @@ C =
   -----------------------
   s^3 + 6.5 s^2 + 6 s + 9
 
-´´´
+```
 
 ### Gráficamos las fuinciones G y C
 
@@ -290,7 +290,7 @@ Sin hacer zoom, podemos observar que la función 'C' se estabiliza rapidamente, 
 
 Ahora C nos queda de la siguiente manera:
 
-´´´
+```matlab
 
 C =
  
@@ -322,7 +322,7 @@ Vemos que aparece un error, para solucionarlo debemos poner: s = tf('s'); entonc
 
 ![image](https://github.com/user-attachments/assets/2ef3636b-d28f-4387-9128-90c1adfcf3d5)
 
-´´´
+```
 
 F =
  
@@ -330,17 +330,18 @@ F =
   exp(-1*s) * ---------------
               s^2 + s + 1.414
 
-´´´
+```
 
 Calculando los polos del sistema, podemos ver que posee 2 polos reales negativos:
 
-´´´
+```
 
 polos_realesF =
 
    -0.5000
    -0.5000
-´´´
+
+```
 
 Al colocar en la ventana de comandos 'close all' observamos que se cierran todas las gráficas. 
 
