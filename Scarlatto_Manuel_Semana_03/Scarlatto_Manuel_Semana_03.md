@@ -262,3 +262,8 @@ En el Workspace, podemos obtener la información de la respuesta al escalon.
 Podemos observar que el sobrepaso es del 20.78 % como el calculado en el punto anterior.
 
 ---
+
+## Guia 6: Consigna 1
+
+![image](https://github.com/user-attachments/assets/c8dec520-50d3-4457-bdda-d360ebf801a8)
+
