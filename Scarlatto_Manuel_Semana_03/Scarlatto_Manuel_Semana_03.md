@@ -57,4 +57,3 @@ La simulación mostró valores de tiempo junto con sus respectivas entradas y sa
 La causa es que el sistema es **tipo 1** (con un polo en el origen) y responde a una entrada escalón con una constante estática de posición Kp infinita, lo que impide que se estabilice en un valor finito.
 
 ![alt text](image1.png)
-
