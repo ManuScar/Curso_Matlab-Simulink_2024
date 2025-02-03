@@ -267,3 +267,23 @@ Podemos observar que el sobrepaso es del 20.78 % como el calculado en el punto a
 
 ![image](https://github.com/user-attachments/assets/c8dec520-50d3-4457-bdda-d360ebf801a8)
 
+Para ver como funciona el comando 'help...' se decidio consultar por el 'step':
+
+![image](https://github.com/user-attachments/assets/eadca520-26f4-4d92-a1cd-b8ebd81390ff)
+
+Ahora veremos el mismo ejemplo pero con el boton de ayuda.
+
+![image](https://github.com/user-attachments/assets/fae7ebb1-8251-46cc-ad0a-5fead8578279)
+
+Tambien podemos ingresar a mismo menu con el comando 'doc ...'
+
+Desde el help, tambien podemos acceder a la herrmienta toolbox 
+
+![image](https://github.com/user-attachments/assets/dab4a221-1abe-4252-bff1-61f8f62cb7ad)
+![image](https://github.com/user-attachments/assets/c201c54a-74e1-4f69-939f-ff4ab4141803)
+
+---
+## Guia 6: Consigna 2
+
+![image](https://github.com/user-attachments/assets/75dabbe4-7809-403b-afd7-8700d8b39789)
+
